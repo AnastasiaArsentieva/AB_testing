@@ -110,6 +110,9 @@
 
 <img width="1142" height="730" alt="image" src="https://github.com/user-attachments/assets/31007c22-2ac5-47ee-a9c1-8f3b6ed8038a" />
 
+<img width="541" height="168" alt="image" src="https://github.com/user-attachments/assets/1be895a3-f3ab-4e80-9f31-65165003f882" />
+
+
 **Итоговое бизнес-решение для проекта:**
 
 Вместо того чтобы предлагать одну акцию всем, мы внедряем гибридную стратегию:
